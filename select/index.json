@@ -1,0 +1,248 @@
+{
+  "version": 1,
+  "base_track": "My All",
+  "base_artist": "MARIAH CAREY",
+  "createdAt": "2026-03-12T12:15:03.029523Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Give You My All",
+      "artist": "Jon Langston",
+      "has_synced": true,
+      "path": "select/01_Give_You_My_All_Jon_Langston.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Broken Smile (My All)",
+      "artist": "Lil Peep",
+      "has_synced": true,
+      "path": "select/02_Broken_Smile_(My_All)_Lil_Peep.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "My All",
+      "artist": "Loveboy",
+      "has_synced": true,
+      "path": "select/03_My_All_Loveboy.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "My All",
+      "artist": "Mariah Carey",
+      "has_synced": true,
+      "path": "select/04_My_All_Mariah_Carey.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "I Will Give You My All",
+      "artist": "Simon Viklund",
+      "has_synced": true,
+      "path": "select/05_I_Will_Give_You_My_All_Simon_Viklund.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "My All",
+      "artist": "Polo G",
+      "has_synced": true,
+      "path": "select/06_My_All_Polo_G.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "My Life, My Love, My All",
+      "artist": "Kirk Franklin",
+      "has_synced": true,
+      "path": "select/07_My_Life,_My_Love,_My_All_Kirk_Franklin.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Giving My All To You",
+      "artist": "Johnny Gill",
+      "has_synced": true,
+      "path": "select/08_Giving_My_All_To_You_Johnny_Gill.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "My All",
+      "artist": "Mariah Carey",
+      "has_synced": true,
+      "path": "select/09_My_All_Mariah_Carey.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "My All",
+      "artist": "Mariah Carey",
+      "has_synced": true,
+      "path": "select/10_My_All_Mariah_Carey.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "My All Time Doll",
+      "artist": "Elvis Costello",
+      "has_synced": true,
+      "path": "select/11_My_All_Time_Doll_Elvis_Costello.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "(You Are My) All And All",
+      "artist": "Joyce Sims",
+      "has_synced": false,
+      "path": "select/12_(You_Are_My)_All_And_All_Joyce_Sims.txt"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "All at Sea",
+      "artist": "The Longest Johns",
+      "has_synced": false,
+      "path": "select/13_All_at_Sea_The_Longest_Johns.txt"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "We All Lift Together (From \"Warframe\")",
+      "artist": "Keith Power",
+      "has_synced": true,
+      "path": "select/14_We_All_Lift_Together_(From__Warframe_)_Keith_Power.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "All American",
+      "artist": "Mickey Guyton",
+      "has_synced": true,
+      "path": "select/15_All_American_Mickey_Guyton.lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "All Falls Down",
+      "artist": "Alan Walker feat. Noah Cyrus, Digital Farm Animals & Juliander",
+      "has_synced": true,
+      "path": "select/16_All_Falls_Down_Alan_Walker_feat._Noah_Cyrus,_Digital_Farm_Animals_&_Juliander.lrc"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "All Falls Down",
+      "artist": "Alan Walker;Noah Cyrus;Digital Farm Animals;Juliander",
+      "has_synced": true,
+      "path": "select/17_All_Falls_Down_Alan_Walker;Noah_Cyrus;Digital_Farm_Animals;Juliander.lrc"
+    },
+    {
+      "id": "lrclib_18",
+      "source": "lrclib",
+      "title": "All Night",
+      "artist": "Brothers Osborne",
+      "has_synced": true,
+      "path": "select/18_All_Night_Brothers_Osborne.lrc"
+    },
+    {
+      "id": "lrclib_19",
+      "source": "lrclib",
+      "title": "All Night",
+      "artist": "Brothers Osborne",
+      "has_synced": true,
+      "path": "select/19_All_Night_Brothers_Osborne.lrc"
+    },
+    {
+      "id": "lrclib_20",
+      "source": "lrclib",
+      "title": "All Night",
+      "artist": "Steve Aoki feat. Lauren Jauregui",
+      "has_synced": true,
+      "path": "select/20_All_Night_Steve_Aoki_feat._Lauren_Jauregui.lrc"
+    },
+    {
+      "id": "lrclib_21",
+      "source": "lrclib",
+      "title": "All Night",
+      "artist": "Steve Aoki.;Lauren Jauregui",
+      "has_synced": true,
+      "path": "select/21_All_Night_Steve_Aoki.;Lauren_Jauregui.lrc"
+    },
+    {
+      "id": "lrclib_22",
+      "source": "lrclib",
+      "title": "All Night To Figure It Out",
+      "artist": "Jade Eagleson",
+      "has_synced": true,
+      "path": "select/22_All_Night_To_Figure_It_Out_Jade_Eagleson.lrc"
+    },
+    {
+      "id": "lrclib_23",
+      "source": "lrclib",
+      "title": "Do It All for You",
+      "artist": "Alan Walker feat. Trevor Guthrie",
+      "has_synced": true,
+      "path": "select/23_Do_It_All_for_You_Alan_Walker_feat._Trevor_Guthrie.lrc"
+    },
+    {
+      "id": "lrclib_24",
+      "source": "lrclib",
+      "title": "Do It All for You",
+      "artist": "Alan Walker;Trevor Guthrie",
+      "has_synced": true,
+      "path": "select/24_Do_It_All_for_You_Alan_Walker;Trevor_Guthrie.lrc"
+    },
+    {
+      "id": "lrclib_25",
+      "source": "lrclib",
+      "title": "Forever After All",
+      "artist": "Luke Combs",
+      "has_synced": true,
+      "path": "select/25_Forever_After_All_Luke_Combs.lrc"
+    },
+    {
+      "id": "lrclib_26",
+      "source": "lrclib",
+      "title": "You All Over Me (feat. Maren Morris) (Taylor’s Version) (From The Vault)",
+      "artist": "Taylor Swift feat. Maren Morris",
+      "has_synced": true,
+      "path": "select/26_You_All_Over_Me_(feat._Maren_Morris)_(Taylor’s_Version)_(From_The_Vault)_Taylor_Swift_feat._Maren_Morris.lrc"
+    },
+    {
+      "id": "lrclib_27",
+      "source": "lrclib",
+      "title": "You All Over Me (Taylor’s Version) (From The Vault)",
+      "artist": "Taylor Swift",
+      "has_synced": true,
+      "path": "select/27_You_All_Over_Me_(Taylor’s_Version)_(From_The_Vault)_Taylor_Swift.lrc"
+    },
+    {
+      "id": "lrclib_28",
+      "source": "lrclib",
+      "title": "All Is Known",
+      "artist": "King Gizzard & The Lizard Wizard",
+      "has_synced": true,
+      "path": "select/28_All_Is_Known_King_Gizzard_&_The_Lizard_Wizard.lrc"
+    },
+    {
+      "id": "lrclib_29",
+      "source": "lrclib",
+      "title": "All Is Known",
+      "artist": "King Gizzard and the Lizard Wizard",
+      "has_synced": true,
+      "path": "select/29_All_Is_Known_King_Gizzard_and_the_Lizard_Wizard.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "All I Want for Christmas Is You",
+      "artist": "Mariah carey",
+      "has_synced": false,
+      "path": "select/pl_01_All_I_Want_for_Christmas_Is_You_Mariah_carey.txt"
+    }
+  ]
+}
